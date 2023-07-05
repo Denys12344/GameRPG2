@@ -1,0 +1,15 @@
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\bin\Debug\net7.0\GameRPG2.exe
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\bin\Debug\net7.0\GameRPG2.deps.json
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\bin\Debug\net7.0\GameRPG2.runtimeconfig.json
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\bin\Debug\net7.0\GameRPG2.dll
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\bin\Debug\net7.0\GameRPG2.pdb
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.csproj.AssemblyReference.cache
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.AssemblyInfoInputs.cache
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.AssemblyInfo.cs
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.csproj.CoreCompileInputs.cache
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.dll
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\refint\GameRPG2.dll
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.pdb
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\GameRPG2.genruntimeconfig.cache
+C:\Users\48572\Desktop\GraRPG2\GameRPG2\obj\Debug\net7.0\ref\GameRPG2.dll
